@@ -2,7 +2,7 @@
 
 **`print(I'm a computer science student at UNLP")`**
 
-<img src="doggo.gif">
+<img align="center" src="doggo.gif">
 <!--
 **Kelisei/Kelisei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

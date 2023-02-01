@@ -1,4 +1,4 @@
-# Francisco Percara :muscle
+# Francisco Percara :muscle:
 
 **`print(I'm a computer science student at UNLP")`**
 
@@ -6,7 +6,7 @@
 
 I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with the world :earth_americas:. I'm on my second year currently, and I've seen mainly Pascal and Assembly. And also started web projects of my own.
 
-## I’m currently learning Python :snake: and Java :coffee
+## I’m currently learning Python :snake: and Java :coffee:
 
 ### I currently know this techs
 

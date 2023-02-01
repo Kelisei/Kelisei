@@ -20,7 +20,7 @@ I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with
 
 ### Extra
 
-- :speaking_head_in_silhouette: Languages: English, Spanish
+- :stars: Languages: English, Spanish
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on a discord clone using electron
 - ⚡ Fun fact: I don't like Icecream

@@ -2,7 +2,7 @@
 
 **`print(I'm a computer science student at UNLP")`**
 
-<img align="center" src="doggo.gif">
+<p align="center"><img src="doggo.gif"></p>
 
 I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with the world :earth_americas:. I'm on my second year currently, and I've seen mainly Pascal and Assembly. And also started web projects of my own.
 

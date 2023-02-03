@@ -1,6 +1,6 @@
 # Francisco Percara :muscle:
 
-**`print("I'm a computer science student at UNLP")`**
+`py print("I'm a computer science student at UNLP") `
 
 <p align="center"><img src="doggo.gif"></p>
 

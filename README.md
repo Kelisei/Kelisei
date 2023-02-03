@@ -1,6 +1,6 @@
 # Francisco Percara :muscle:
 
-**`print(I'm a computer science student at UNLP")`**
+**`print("I'm a computer science student at UNLP")`**
 
 <p align="center"><img src="doggo.gif"></p>
 
@@ -14,7 +14,6 @@ I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px"></a>
 
 ## Reach me :iphone:: .【𝓚𝓮𝓵𝓲𝓼𝓮𝓲】#6143
 
@@ -22,5 +21,5 @@ I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with
 
 - :stars: Languages: English, Spanish
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on a discord clone using electron
+- 🔭 I’m currently working on a discord clone using Tauri
 - ⚡ Fun fact: I don't like Icecream

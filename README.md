@@ -15,7 +15,7 @@ I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelisei)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelisei&themetheme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Reach me :iphone:: .【𝓚𝓮𝓵𝓲𝓼𝓮𝓲】#6143
 

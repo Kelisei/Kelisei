@@ -14,6 +14,7 @@ I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px"></a>
+<a href="https://sass-lang.com/" title="Sass"><img src="https://avatars.githubusercontent.com/u/317889?s=200&v=4" alt="JavaScript" width="30px"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelisei&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

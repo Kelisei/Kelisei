@@ -24,5 +24,5 @@ I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with
 
 - :stars: Languages: English, Spanish
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on a discord clone using Tauri
+- 🔭 I’m currently on a webpage with Django.
 - ⚡ Fun fact: I don't like Icecream

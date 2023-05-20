@@ -1,4 +1,4 @@
-# Francisco Percara :muscle
+# Francisco Percara 💪
 
 `print("I'm a computer science student at UNLP")`
 

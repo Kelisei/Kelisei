@@ -18,6 +18,5 @@ I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with
 ### Extra
 
 - :stars: Languages: English, Spanish
-- 😄 Pronouns: he/him
-- 🔭 I’m currently on a webpage with Django.
+- 🔭 I’m currently on a webpage with Vue.
 - ⚡ Fun fact: I don't like Icecream

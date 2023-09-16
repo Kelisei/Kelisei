@@ -17,6 +17,6 @@ I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with
 
 ### Extra
 
-- :stars: Languages: English, Spanish
-- 🔭 I’m currently on a webpage with Vue.
-- ⚡ Fun fact: I don't like Icecream
+- :stars: Languages: English, Spanish.
+- 🔭 I’m currently on the second year of uni.
+- ⚡ Fun fact: I like to put jokes in my documentation.

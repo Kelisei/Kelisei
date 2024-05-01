@@ -4,7 +4,7 @@
 
 <p align="center"><img src="doggo.gif"></p>
 
-I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with the world :earth_americas:. I'm on my second year currently, and I've seen mainly Pascal and Assembly. And also started web projects of my own.
+I'm a CS student a the UNLP, I enjoy learning new concepts and sharing them with the world :earth_americas:. I'm on my third year currently, and I've seen mainly Java and Python, along with C, Pascal, Assembly.
 
 ## I’m doing Advent of Code in JAVA ☕
 

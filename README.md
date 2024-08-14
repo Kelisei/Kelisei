@@ -1,4 +1,4 @@
-<h1 align="left">Hi 💪! My name is Francisco Percara and I'm a Computer science studente, from Argentina</h1>
+<h1 align="left">Hi 💪! My name is Francisco Percara and I'm a Computer science student, from Argentina</h1>
 
 ###
 

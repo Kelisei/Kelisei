@@ -63,11 +63,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Kelisei">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=va136ome55rzt93xkgyiaonww)
-  </a>
-</div>
-
-###
